@@ -20,14 +20,8 @@ The dashboard generate will have the following information:
 - Superseded KBs.
 - Supersedes KBs.
 
-### 2.	Solution Architecture
-
-As mentioned before this Dashboard will combine info from SUGAPI and from WSUS database. Therefore, in order to make this solution to work the following steps are necessary:
-- Download a JSON file that contain CVE info.
-- WSUS server available to connect.
-- SUSDB in SQL database, WID database won’t work.
-- Read permission on SUSDB
-- PowerBI Desktop installed.
-- PBI template file that does the analysis.
-
 ![OverviewImage](/install/images/OverviewImage.png)
+
+
+Download the [documentation](/install/Security - Analyze-KBs-Superseded.pdf) and the [PBI template](/install/Security - Analyze-KBs-Superseded.pbix).
+
