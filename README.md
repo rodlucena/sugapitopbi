@@ -23,5 +23,5 @@ The dashboard generate will have the following information:
 ![OverviewImage](/install/images/OverviewImage.png)
 
 
-Download the [documentation](/install/Security - Analyze-KBs-Superseded.pdf) and the [PBI template](/install/Security - Analyze-KBs-Superseded.pbix).
+Download the [documentation](/install/Security - Analyze-KBs-Superseded.pdf) and the [PBI template](https://github.com/rodlucena/sugapitopbi/blob/master/install/Security%20-%20Analyze-KBs-Superseded.pbix).
 
