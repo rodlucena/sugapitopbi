@@ -30,4 +30,4 @@ As mentioned before this Dashboard will combine info from SUGAPI and from WSUS d
 - PowerBI Desktop installed.
 - PBI template file that does the analysis.
 
-
+![OverviewImage](/install/images/OverviewImage.png)
