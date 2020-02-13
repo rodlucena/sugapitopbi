@@ -6,7 +6,7 @@
 
 This solution will help the Security team to analyze the superseded KBs, delivered monthly by Microsoft.
 
-The SUGAPI (aka.ms/sugapi) is a RESTful API that we can use to engage the Microsoft Security Response Center (MSRC) in the following ways: 
+The SUGAPI [aka.ms/sugapi](https://portal.msrc.microsoft.com/en-us/developer) is a RESTful API that we can use to engage the Microsoft Security Response Center (MSRC) in the following ways: 
 - Get security update summaries and details using the Common Vulnerability Reporting Framework (CVRF).
 - Report suspected cyberattacks or abuse originating from Microsoft Online Services.
 - Notify Microsoft of any planned penetration tests against your Azure assets.
