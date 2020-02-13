@@ -2,7 +2,7 @@
 
 ### Security – Analyze KBs Superseded
 
-### 1.	SUGAPI Dashboard in PBI
+### SUGAPI Dashboard in PBI
 
 This document will help the Security team to analyze the superseded KBs, delivered monthly by Microsoft.
 
