@@ -4,14 +4,14 @@
 
 ### SUGAPI Dashboard in PBI
 
-This solution will help the Security team to analyze the superseded KBs, delivered monthly by Microsoft.
+This document will help the Security team to analyze the KBs, delivered monthly by Microsoft.
 
-The SUGAPI [aka.ms/sugapi](https://portal.msrc.microsoft.com/en-us/developer) is a RESTful API that we can use to engage the Microsoft Security Response Center (MSRC) in the following ways: 
+The "Microsoft Security Updates API | MSRC" <https://api.msrc.microsoft.com/cvrf/v2.0/swagger/index> is a RESTful API that we can use to engage the Microsoft Security Response Center (MSRC) in the following ways:
 - Get security update summaries and details using the Common Vulnerability Reporting Framework (CVRF).
 - Report suspected cyberattacks or abuse originating from Microsoft Online Services.
 - Notify Microsoft of any planned penetration tests against your Azure assets.
 
-The propose of this solution is to show you how to get the CVRF summary and combining this info with WSUS Database will provide you a PowerBI Dashboard that brings insightful information about superseded KBs and more. 
+The purpose of this documentation is to show you how to get the CVRF summary and combine that information with the WSUS database, providing a PowerBI dashboard with insightful information about KB availability by period, KB replacement, and more. 
 
 The dashboard generate will have the following information:
 - Microsoft Common Vulnerabilities and Exposures (CVE).
@@ -19,6 +19,8 @@ The dashboard generate will have the following information:
 - KBs associate with CVEs.
 - Superseded KBs.
 - Supersedes KBs.
+- WSUS KBs analyses.
+- Combination of data coming from MSRC and WSUS database.
 
 ![OverviewImage](/install/images/OverviewImage.png)
 
