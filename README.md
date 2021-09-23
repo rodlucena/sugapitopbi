@@ -1,8 +1,8 @@
-## SUGAPI Dashboard in PBI
+## MSRCAPI Dashboard in PBI
 
-### Security – Analyze KBs Superseded
+### Reports Software Updates (MSRC x WSUS)
 
-### SUGAPI Dashboard in PBI
+### MSRCAPI Dashboard in PBI
 
 This document will help the Security team to analyze the KBs, delivered monthly by Microsoft.
 
